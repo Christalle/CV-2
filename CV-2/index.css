@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin:0;
+    text-align:center;
+}
+body{
+    background-color: rgb(219, 223, 172);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+img{
+    width: 500px;
+     border: solid 6px rgb(179, 52, 52);
+     border-top-right-radius: 300px;
+     border-bottom-left-radius: 200px;
+     margin-left:-840px;
+}
+#cv{
+    background-color: rgb(179, 52, 52);
+    border:solid rgb(179, 52, 52);
+    height: 70px;
+    margin-top:-450px;
+    margin-left: 200px;
+    margin-top:-474px;
+}
+h1{
+    font-size: 30px;
+    font-family: MS gothic;;
+    color:rgb(179, 52, 52);
+    text-shadow: rgb(0, 0, 0) 1px 1px;
+    text-decoration:underline ;
+}
+ul li{
+    font-size: 20px;
+    font-family: century gothic;
+    color:rgb(0, 0, 0);
+}
+.title1{
+    margin-left: 500px;
+    text-align: ;
+    
+}
+   
+
